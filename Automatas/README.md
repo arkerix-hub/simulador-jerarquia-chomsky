@@ -40,8 +40,8 @@ El proyecto concentra toda la lógica y la interfaz gráfica en un único archiv
 
 1. **Clona o descarga el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <CARPETA_DEL_PROYECTO>
+   git clone <(https://github.com/arkerix-hub/simulador-jerarquia-chomsky.git)>
+   cd <simulador-jerarquia-chomsky/Automatas>
    ```
 
 2. **Compila y ejecuta desde terminal:**
